@@ -1,2 +1,2 @@
 # Databases
-This repo contains basics of Databases
+This repo contains the basics of Databases
